@@ -1,0 +1,27 @@
+git hub commands
+
+1) clone repo- git clone <url>
+
+2) to add file - git add <filename> 
+
+3) to give message - git commit -m "message" 
+
+4) to upload - git push origin <branch name>
+
+
+to  make up to date - git pull
+_______________________________________________________________________________________________________________
+branch
+
+to see no of avaible branches= git branch -r 
+
+to create branch = git checkout -b <branchname>
+
+to move from one branch to another branch = git checkout <branchname>
+_________________________________________________________________________________________________________________-
+
+cd <path> - to go to inside folder
+
+cd .. - come out of folder
+
+ls - folder vhitra k k xa sab dekhauxa
